@@ -48,6 +48,11 @@ coverage.xml
 *.cover
 *.py.cover
 .hypothesis/
+
+# Frontend / editor files
+.DS_Store
+node_modules/
+*.log
 .pytest_cache/
 cover/
 
